@@ -1,21 +1,163 @@
-# 💫 About Me:
-Hi, I'm Sandeep Kumar, a B.Tech student specializing in Artificial Intelligence and Machine Learning. I'm passionate about exploring AI and building intelligent systems. Currently, I'm improving my skills in Machine Learning and AI technologies and continuously learning new concepts in this field. I'm also open to collaborating on interesting AI/ML projects and opportunities to grow as an ML/AI Engineer.
+<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
+<h3 align="center">Artificial Intelligence & Machine Learning Student | Data Science | AI/ML Enthusiast | Aspiring ML Engineer</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-69241b256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankrdeep7510@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandeepkr0209&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sandeepkr0209&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkr0209&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sandeepkr0209&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-kumar-69241b256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sankrdeep7510@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sandeepkr0209&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, passionate about building intelligent systems that solve real-world problems.
+
+I enjoy working across the entire ML lifecycle—from data preprocessing and model training to deployment using modern backend frameworks.
+
+Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, Data Structures & Algorithms, and Backend Development** while building impactful AI applications.
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Building end-to-end Machine Learning projects
+- 📚 Learning Deep Learning & MLOps
+- 💻 Solving Data Structures & Algorithms in C++
+- 🚀 Deploying ML applications using FastAPI & Flask
+- 🌱 Exploring NLP and Computer Vision
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+</p>
+
+### Machine Learning & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Keras
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Deployment & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render" />
+</p>
+
+---
+# 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Walmart Sales Forecasting & Anomaly Detection
+
+An end-to-end machine learning system for forecasting Walmart sales and detecting unusual sales patterns across stores and departments.
+
+**✨ Highlights**
+
+- 📊 Analyzed **421K+ sales records** to uncover business insights.
+- 📈 Built **XGBoost** and **Prophet** forecasting models.
+- 🎯 Achieved **MAE: 3,178** (XGBoost) and **MAPE: 2.22%** (Prophet).
+- 🚨 Detected **8 significant sales anomalies** using Isolation Forest.
+- ⚙️ Engineered **14 features**, reducing MAPE from **93% → 28.63%**.
+- 🌐 Deployed an interactive Flask dashboard with REST APIs on Render.
+
+**Tech Stack**
+
+`Python` `XGBoost` `Prophet` `Scikit-learn`
+`Flask` `Pandas` `NumPy` `Bootstrap`
+
+🔗 **Live Demo:** *[DEMO Link](https://sales-forecasting-qo03.onrender.com/)*
+
+🔗 **Repository:** *[REPO Link](https://github.com/sandeepkr0209/sales-forecasting/tree/main)*
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 NeuroScan AI
+
+An AI-powered medical imaging application for automated brain scan analysis using Deep Learning, designed to assist in faster and more accurate diagnosis.
+
+**✨ Highlights**
+
+- 🧠 Built a deep learning pipeline for brain scan image classification.
+- 📂 Performed image preprocessing, augmentation, and feature extraction.
+- 🤖 Trained and evaluated CNN-based models for medical image analysis.
+- 📈 Visualized prediction confidence and model performance.
+- 🌐 Developed an easy-to-use web interface for uploading and analyzing scans.
+- 🚀 Designed for scalable deployment with modern AI workflows.
+
+**Tech Stack**
+
+`Python` `TensorFlow` `Keras`
+`OpenCV` `Flask`
+`NumPy` `Pandas`
+
+🔗 **Live Demo:** *[DEMO Link](https://huggingface.co/spaces/sandeep0209/tumor_Detection_app)*
+
+🔗 **Repository:** *[REPO Link](https://github.com/sandeepkr0209/Brain-Tumor-Detection-using-EfficientNetB4)*
+
+</td>
+</tr>
+</table>
+
+## 🌱 Currently Learning
+
+- Deep Learning
+- MLOps
+- System Design
+- FastAPI
+- Large Language Models (LLMs)
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** sankrdeep7510@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/sandeep-kumar-69241b256/
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
