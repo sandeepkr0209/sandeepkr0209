@@ -8,6 +8,9 @@
   <a href="mailto:sankrdeep7510@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
+  <a href="https://sandeepkumar-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
