@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Student | Data Science | AI/ML Enthusiast | Aspiring ML Engineer</h3>
+<h3 align="center">Artificial Intelligence & Machine Learning Student | Data Science | Software Engineer | Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeep-kumar-69241b256/" target="_blank">
