@@ -5,9 +5,6 @@ Artificial Intelligence & Machine Learning Student | ML Engineer | AI Engineer |
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-kumar-69241b256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:sankrdeep7510@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
@@ -310,20 +307,6 @@ https://leetcode.com/u/Sandeep_0209/
 
 <p>
   📧 <strong>Email:</strong> sankrdeep7510@gmail.com
-</p>
-
-<p>
-  💼 <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/sandeep-kumar-69241b256/">
-    linkedin.com/in/sandeep-kumar-69241b256
-  </a>
-</p>
-
-<p>
-  🌐 <strong>Portfolio:</strong>
-  <a href="https://sandeepkumar-one.vercel.app/">
-    sandeepkumar-one.vercel.app
-  </a>
 </p>
 
 ---
