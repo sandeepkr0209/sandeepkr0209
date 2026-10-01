@@ -11,7 +11,7 @@ Artificial Intelligence & Machine Learning Student | ML Engineer | AI Engineer |
   <a href="https://sandeepkumar-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Sandeep_0209/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/Sandeep_0209/" target="_blank"> -->
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
   </a>
 </p>
