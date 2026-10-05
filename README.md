@@ -288,6 +288,20 @@ https://github.com/sandeepkr0209/resume-ats
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkr0209&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+<h2 align="center">◦ SNAKE EATS MY CONTRIBUTIONS ◦</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sia3136/Sia3136/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sia3136/Sia3136/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sia3136/Sia3136/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkr0209&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -298,8 +312,6 @@ https://github.com/sandeepkr0209/resume-ats
 
 I regularly practice Data Structures & Algorithms using **C++** and focus on improving problem-solving and algorithmic thinking.
 
-🔗 **LeetCode:**  
-https://leetcode.com/u/Sandeep_0209/
 
 ---
 
